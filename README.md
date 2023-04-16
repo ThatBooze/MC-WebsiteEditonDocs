@@ -1,4 +1,4 @@
-# 🎮 Minecraft: Website Edition - Docs 📚
+# [![Markdown Cobblestone Block](https://raw.githubusercontent.com/MBooze/MC-WebsiteEditonDocs/main/assets/textures/previews/9.png)](https://classic.minecraft.net/) Minecraft: Website Edition - Docs
 
 Welcome to the **Minecraft: Website Edition Docs**! This wiki provides comprehensive documentation to help you navigate and customize [classic.minecraft.net](https://classic.minecraft.net/) for your Minecraft adventures.
 
